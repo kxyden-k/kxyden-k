@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there Im Kayden Kara <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 <!--
 **kxyden-k/kxyden-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
